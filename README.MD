@@ -24,7 +24,7 @@ SIERRA (Swarm Intelligence for Environmental Reconnaissance and Research Assessm
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/SIERRA.git
+   git clone https://github.com/heysouravv/SIERRA.git
    ```
 
 2. Navigate to the project directory:
